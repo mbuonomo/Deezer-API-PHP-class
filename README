@@ -1,0 +1,8 @@
+Use this class to interact with the new Deezer Simple API
+
+It's integrate the oAuth process 
+
+For the moment there is just one really usefull method called api, which do exactly the same things that the DZ.api does
+
+
+More to come, stay tuned
